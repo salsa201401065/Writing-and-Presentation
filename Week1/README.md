@@ -97,14 +97,79 @@
 ![image](https://user-images.githubusercontent.com/85721113/192131834-8b99ee83-62db-4b1e-a7d5-06d7b75eb19c.png)
 
 ## **Git and GitHub**
-### **Pengertian serta kegunaan Git dan GitHub**
-
+### **Kegunaan Git dan GitHub**
+Git dan GitHub merupakan sesuatu yang wajib digunakan oleh seorang developer dalam mengerjakan projek yang dibuat. Kegunaan dari Git dan GitHub sendiri Jika terjadi perubahan atau penambahan pada projek yang kita kerjakan bersama dengan para developer lainnya, kita dapat mengetahui informasi tersebut. Hal ini juga memudahkan para developer yang berkolaborasi dalam mengerjakan suatu projek yang kemudian projek tersebut akan di simpan di repository github.
 ### **Perbedaann antara Git dan GitHub**
+•	Git adalah software yang digunakan untuk mengelola source code dari projek yang sedang dikerjakan. 
+
+•	GitHub adalah layanan hosting berbasis web yang berguna sebagai wadah untuk menampung atau menyimpan git.
 ### **Alur kerja dari Git dan GitHub**
+
+![image](https://user-images.githubusercontent.com/85721113/192149552-e0b09517-5326-4440-83ea-554a2525e5c3.png)
+
+•	Melakukan setup
+
+•	Membuat repository
+
+•	Menandakan file yang akan dilacak perubahannya
+
+•	Melakukan commit dan membuat keterangan terhadap setiap perubahan
+
+•	Mempublish repository projek  ke GitHub
+
+
 ### **Membuat repository Git**
+
+•	Untuk langkah awal, jangan lupa mealukan setup dengan menggunakan git config --global user.name “<nama user>”, config –global user.email <email user>
+
+•	Lakukan pengecekan apakah setup berhasil melalui git config --list
+
+•	Untuk membuat repository baru, kita dapat menggunakan perintah git init 
+
+![image](https://user-images.githubusercontent.com/85721113/192149585-26b51330-8441-47d0-bf3d-c8a341f246c4.png)
+
 ### **Melakukan commit pada Git**
+
+•	Untuk melihat status dari file, kita dapat menggunakan perintah git status 
+
+![image](https://user-images.githubusercontent.com/85721113/192149637-2b71b23e-b71d-47de-98e2-8bc8195ede6d.png)
+
+•	Untuk melacak perubahan, kita harus menandakan file yang akan dilacak menggunakan perintah git add . 
+
+![image](https://user-images.githubusercontent.com/85721113/192149643-1998a537-8696-4634-bb37-a86260fef58f.png)
+
+•	Setelah ditandain, perubahan tersebut dapat disimpan dan diberi keterangan terhadap file yang berubah dengan cara git commit -m “<komentar>”
+
+![image](https://user-images.githubusercontent.com/85721113/192149650-fcb5204e-90e6-4d7c-88bd-56f013f70328.png)
+
+•	Mengecek hasil penyimpanan yang telah di commit dalam baris singkat dapat menggunakan perintah git log –oneline
+
+![image](https://user-images.githubusercontent.com/85721113/192149662-1d695dc0-0612-400f-89f8-ce91a1971456.png)
+
+•	Untuk pindah ke spesifik file yang mau kita tuju, kita dapat menggunakan perindah  git checkout <kode commit file>
+
+![image](https://user-images.githubusercontent.com/85721113/192149666-c88c097d-08ab-40f1-a981-f486feb4a875.png)
+
 ### **Mempublish aplikasi ke GitHub**
+
+•	Untuk melakukan publish, langkah yang harus kita lakukan pertama kali adalah membuat repository di akun github kita
+
+![image](https://user-images.githubusercontent.com/85721113/192149692-fcfc6997-abd5-423f-9e70-cd9a5bddbfca.png)
+
+•	Langkah berikutnya adalah melakukan perintah git remote untuk menghubungkan repository dengan github
+
+ ![image](https://user-images.githubusercontent.com/85721113/192149705-a4202275-1c4b-4ff7-b202-54798ba0d65b.png)
+
+•	Selanjutnya gunkan perintah git push untuk mengupload repository di github
+
+![image](https://user-images.githubusercontent.com/85721113/192149709-2dddde26-7824-4a31-ada0-47d81e78fc98.png)
+
 ### **Melakukan cloning Git dan GitHub**
+
+•	Untuk melakukan cloning kita dapat menggunakan perintah git remote 
+
+![image](https://user-images.githubusercontent.com/85721113/192149718-76f1f326-a1c0-4897-a8bc-ee1263604029.png)
+
 
 
 
