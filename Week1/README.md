@@ -53,6 +53,50 @@
 ![image](https://user-images.githubusercontent.com/85721113/192131667-1fbd1e53-c396-4b3d-8f0d-62ac4ac6a79d.png)
 
 ### **Command untuk membuat file & direktori**
+•	Untuk membuat direktori kita dapat menggunakan perintah ‘mkdir’. Cara menggunakannya : mkdir(spasi)(‘namaFolder’)
+
+![image](https://user-images.githubusercontent.com/85721113/192131744-05e83619-41e3-4b5a-b53f-578ad28ef135.png)
+
+•	Untuk membuat file baru, misalnya file txt kita dapat menggunakan perintah ‘touch’. Caranya dengan menggunakan : touch(spasi)(namaFile)
+
+![image](https://user-images.githubusercontent.com/85721113/192131753-8bf730cd-77d3-411d-b4db-d25a71e0fdf9.png)
+
 ### **Command untuk menyalin file & direktori**
+•	Untuk menyalin file kita dapat menggunakan perintah ‘cp’. Caranya : cp(spasi)(namaFile yang akan disalin)(spasi)(namaFilebaru yang disalin)
+
+![image](https://user-images.githubusercontent.com/85721113/192131762-71904975-e10f-4760-bd40-551bf09edd5c.png)
+
+•	Untuk menyalin folder kita dapat menggunakan perintah ‘cp’. Caranya : cp(spasi)(-r)(spasi)(namaFolder yang akan disalin)(spasi)(namaFolderbaru yang disalin)
+
+![image](https://user-images.githubusercontent.com/85721113/192131766-4e0d8d2b-3d13-47b2-be40-bcc6b0c39d79.png)
+
 ### **Command untuk memindahkan atau me-rename file dan direktori**
+•	Untuk memindahkan suatu file ke dalam suatu folder, kita dapat menggunakan perintah ‘mv’. Caranya : mv(spasi)(namaFile yang akan dpindahkan)(spasi)(alamat folder tujuan)
+
+![image](https://user-images.githubusercontent.com/85721113/192131779-18ea3363-ab8f-458a-80cf-04af9d71b2b7.png)
+
+•	Untuk memindahkan suatu folder ke dalam suatu folder, kita dapat menggunakan perintah ‘mv’. Caranya : mv(spasi)(namaFolder yang akan dpindahkan)(spasi)(alamat folder tujuan)
+
+![image](https://user-images.githubusercontent.com/85721113/192131791-f240d585-9769-4704-a729-f62d3a47f293.png)
+
+•	Untuk merename suatu folder, kita dapat menggunakan perintah ‘mv’. Caranya : mv(spasi)(namaFolder yang lama)(spasi)(namaFolder yang baru)
+
+![image](https://user-images.githubusercontent.com/85721113/192131801-83848143-d123-4b6a-953a-1ff4c24b4175.png)
+
+•	Untuk merename suatu folder, kita dapat menggunakan perintah ‘mv’. Caranya : mv(spasi)(namaFile yang lama)(spasi)(namaFile yang baru)
+
+![image](https://user-images.githubusercontent.com/85721113/192131809-3ba69913-2acd-4b36-a3d5-d42a04354ca8.png)
+
 ### **Command untuk menghapus file & direktori**
+•	Jika ingin menghapus suatu folder, kita dapat menggunakan perintah ‘rm’. Caranya : rm(spasi)-r(spasi)(Alamat folder yang akan dihapus)
+
+![image](https://user-images.githubusercontent.com/85721113/192131827-1163ec96-9adf-44cd-98ca-61197ba870ea.png)
+
+•	Jika ingin menghapus suatu file, kita dapat menggunakan perintah ‘rm’. Caranya : rm(spasi)(namaFile yang akan dihapus)
+
+![image](https://user-images.githubusercontent.com/85721113/192131834-8b99ee83-62db-4b1e-a7d5-06d7b75eb19c.png)
+
+
+
+
+
