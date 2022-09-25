@@ -120,7 +120,7 @@ Git dan GitHub merupakan sesuatu yang wajib digunakan oleh seorang developer dal
 
 ### **Membuat repository Git**
 
-•	Untuk langkah awal, jangan lupa mealukan setup dengan menggunakan git config --global user.name “<nama user>”, config –global user.email <email user>
+•	Untuk langkah awal, jangan lupa melakukan setup dengan menggunakan git config --global user.name “<nama user>”, config –global user.email <email user>
 
 •	Lakukan pengecekan apakah setup berhasil melalui git config --list
 
@@ -146,7 +146,7 @@ Git dan GitHub merupakan sesuatu yang wajib digunakan oleh seorang developer dal
 
 ![image](https://user-images.githubusercontent.com/85721113/192149662-1d695dc0-0612-400f-89f8-ce91a1971456.png)
 
-•	Untuk pindah ke spesifik file yang mau kita tuju, kita dapat menggunakan perindah  git checkout <kode commit file>
+•	Untuk pindah ke spesifik file yang mau kita tuju, kita dapat menggunakan perintah git checkout <kode commit file>
 
 ![image](https://user-images.githubusercontent.com/85721113/192149666-c88c097d-08ab-40f1-a981-f486feb4a875.png)
 
