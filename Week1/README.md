@@ -332,6 +332,8 @@ Dokumen akan lebih mudah dibaca jika menggunakan semantic HTML :
 
 ### **Publish website sampai ke tahap deployment**
 •	Untuk mempublish aplikasi website yang dibuat, kita dapat menggunakan app yang bernama netlify dengan cara login terlebih dahulu melalui akun github yang telah kita miliki
+	
+## **CSS**
 
 
 
