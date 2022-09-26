@@ -211,14 +211,14 @@ Git dan GitHub merupakan sesuatu yang wajib digunakan oleh seorang developer dal
 
 •	Terdapat banyak elemen pada HTML, bahkan terdapat beberapa elemen yang harus diikuti oleh atribut di HTML. Contohnya : <img src = “ ”  /> , <a href “ ” />, dan lainnya
 
-### **HTML secara manual dan menggunakan live server dari VS Code **
+### **HTML secara manual dan menggunakan live server dari VS Code**
 •	Pertama-tama jika menggunakan text editor VSCode, harus menginstall dulu ekstensi yang bernama “live server”
 
 ![image](https://user-images.githubusercontent.com/85721113/192193679-1e0cd04b-a7ad-44fb-bc8c-11962be3aba3.png)
 
 •	Jika itu cara manual, setiap ngesave developer harus merefresh halaman web terlebih dahulu agar perubahan terbaru tampak di halaman web browser
 
-### **Pengimplementasikan tag HTML yang populer **
+### **Pengimplementasikan tag HTML yang populer**
 Beberapa tag HTML yang sering digunakan :
 •	Tag untuk membuat paragraph
 
@@ -235,19 +235,20 @@ Beberapa tag HTML yang sering digunakan :
 •	Tag untuk menebalkan huruf atau kalimat
 
 ```html
-<b></b>
+<b>ini adalah huruf cetak tebal</b>
 ```
 
 •	Tag membuat huruf cetak miring
 
 ```html
-<i></i>
+<i>ini adalah huruf cetak miring</i>
 ```
 
 •	Tag untuk memasukkan gambar
 ```html
 <img src = “” />
-
+ ```
+ 
 •	Tag untuk membuat link
 
 ```html
@@ -271,18 +272,18 @@ Beberapa tag HTML yang sering digunakan :
         <li>Java</li>
         <li>Python</li>
         <li>Kotlin</li>
-  </ol>
+ </ol>
  ```
       
 •	Tag Heading
 
 ```html
-<h1></h1>
-<h2></h2>
-<h3></h3>
-<h4></h4>
-<h5></h5>
-<h6></h6>	
+<h1>ini heading 1</h1>
+<h2>ini heading 2</h2>
+<h3>ini heading 3</h3>
+<h4>ini heading 4</h4>
+<h5>ini heading 5</h5>
+<h6>ini heading 6</h6>	
 ```
 
 Semakin ke atas angkanya ukuran huruf akan semakin kecil
