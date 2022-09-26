@@ -257,7 +257,8 @@ Beberapa tag HTML yang sering digunakan :
 ```
 
 •	Tag untuk list
-
+ 
+ Untuk unordered list (list tidak berurutan)
 ```html
 <ul>
         <li>Javascript</li>
@@ -266,7 +267,10 @@ Beberapa tag HTML yang sering digunakan :
         <li>Python</li>
         <li>Kotlin</li>
 </ul>
+```
 
+Untuk ordered list (list berurutan)
+```html
 <ol>
         <li>Javascript</li>
         <li>PHP</li>
