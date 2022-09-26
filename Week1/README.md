@@ -220,6 +220,7 @@ Git dan GitHub merupakan sesuatu yang wajib digunakan oleh seorang developer dal
 
 ### **Pengimplementasikan tag HTML yang populer**
 Beberapa tag HTML yang sering digunakan :
+ 
 •	Tag untuk membuat paragraph
 
 ```html
