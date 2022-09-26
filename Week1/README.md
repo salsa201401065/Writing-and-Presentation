@@ -293,7 +293,7 @@ Untuk ordered list (list berurutan)
 
 Semakin ke atas angkanya ukuran huruf akan semakin kecil
 
-### **Pengimplementasikan semantic HTML**
+### **Pengimplementasian semantic HTML**
 •	Semantic HTML berfungsi agar dokumen HTML kita akan mudah dibaca, baik itu oleh manusia maupun mesin. 
 
 Jika menggunakan <div> terllu banyak untuk membuat class, maka terkadang akan ada kesulitan dalam membaca dokumen.
