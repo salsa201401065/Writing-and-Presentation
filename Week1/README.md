@@ -200,10 +200,95 @@ Git dan GitHub merupakan sesuatu yang wajib digunakan oleh seorang developer dal
 </html>
  
  ```
+ 
+•	Anatomi dari HTML
 
-### **Kegunaan Git dan GitHub**
-### **Kegunaan Git dan GitHub**
-### **Kegunaan Git dan GitHub**
+![image](https://user-images.githubusercontent.com/85721113/192193510-73c36530-e211-404f-a508-32fd8b1228e5.png)
+
+•	Hal yang disebut sebagai atribut pada HTML jika dimulai dari tag awal hingga tag penutup
+
+![image](https://user-images.githubusercontent.com/85721113/192193541-4c3a4f88-aed0-4d14-b3df-269c3857065f.png)
+
+•	Terdapat banyak elemen pada HTML, bahkan terdapat beberapa elemen yang harus diikuti oleh atribut di HTML. Contohnya : <img src = “ ”  /> , <a href “ ” />, dan lainnya
+
+### **HTML secara manual dan menggunakan live server dari VS Code **
+•	Pertama-tama jika menggunakan text editor VSCode, harus menginstall dulu ekstensi yang bernama “live server”
+
+![image](https://user-images.githubusercontent.com/85721113/192193679-1e0cd04b-a7ad-44fb-bc8c-11962be3aba3.png)
+
+•	Jika itu cara manual, setiap ngesave developer harus merefresh halaman web terlebih dahulu agar perubahan terbaru tampak di halaman web browser
+
+### **Pengimplementasikan tag HTML yang populer **
+Beberapa tag HTML yang sering digunakan :
+•	Tag untuk membuat paragraph
+
+```html
+<p>Climate change refers to long-term shifts in temperatures and weather patterns. These shifts may be natural, such as through variations in the solar cycle. But since the 1800s, human activities have been the main driver of climate change, primarily due to burning fossil fuels like coal, oil and gas.</p>
+```
+
+•	Tag untuk membuat baris baru
+
+```html
+<br>
+```
+
+•	Tag untuk menebalkan huruf atau kalimat
+
+```html
+<b></b>
+```
+
+•	Tag membuat huruf cetak miring
+
+```html
+<i></i>
+```
+
+•	Tag untuk memasukkan gambar
+```html
+<img src = “” />
+
+•	Tag untuk membuat link
+
+```html
+<a href  = “” />
+```
+
+•	Tag untuk list
+
+```html
+		<ul>
+        <li>Javascript</li>
+        <li>PHP</li>
+        <li>Java</li>
+        <li>Python</li>
+        <li>Kotlin</li>
+   		 </ul>
+
+		<ol>
+        <li>Javascript</li>
+        <li>PHP</li>
+        <li>Java</li>
+        <li>Python</li>
+        <li>Kotlin</li>
+   		 </ol>
+      ```
+      
+•	Tag Heading 
+
+```html
+<h1></h1>
+<h2></h2>
+<h3></h3>
+<h4></h4>
+<h5></h5>
+<h6></h6>
+```html
+
+Semakin ke atas angkanya ukuran huruf akan semakin kecil
+
+### **Pengimplementasikan semantic HTML**
+### **7.	Publish website sampai ke tahap deployment**
 
 
 
