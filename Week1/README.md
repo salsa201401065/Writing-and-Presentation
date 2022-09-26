@@ -257,24 +257,24 @@ Beberapa tag HTML yang sering digunakan :
 •	Tag untuk list
 
 ```html
-		<ul>
+<ul>
         <li>Javascript</li>
         <li>PHP</li>
         <li>Java</li>
         <li>Python</li>
         <li>Kotlin</li>
-   		 </ul>
+</ul>
 
-		<ol>
+<ol>
         <li>Javascript</li>
         <li>PHP</li>
         <li>Java</li>
         <li>Python</li>
         <li>Kotlin</li>
-   		 </ol>
-      ```
+  </ol>
+ ```
       
-•	Tag Heading 
+•	Tag Heading
 
 ```html
 <h1></h1>
@@ -282,7 +282,7 @@ Beberapa tag HTML yang sering digunakan :
 <h3></h3>
 <h4></h4>
 <h5></h5>
-<h6></h6>
+<h6></h6>	
 ```
 
 Semakin ke atas angkanya ukuran huruf akan semakin kecil
