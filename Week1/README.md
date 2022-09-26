@@ -294,7 +294,45 @@ Untuk ordered list (list berurutan)
 Semakin ke atas angkanya ukuran huruf akan semakin kecil
 
 ### **Pengimplementasikan semantic HTML**
+•	Semantic HTML berfungsi agar dokumen HTML kita akan mudah dibaca, baik itu oleh manusia maupun mesin. 
+
+Jika menggunakan <div> terllu banyak untuk membuat class, maka terkadang akan ada kesulitan dalam membaca dokumen.
+
+```html
+<div id="header"></div>
+<div class="section">
+	<div class="article">
+		<div class="figure">
+			<img>
+			<div class="figcaption"></div>
+		</div>
+	</div>
+</div>
+<div id="footer"></div>
+```
+Dokumen akan lebih mudah dibaca jika menggunakan semantic HTML :
+
+```html
+<header></header>
+<section>
+	<article>
+		<figure>
+			<img>
+			<figcaption></figcaption>
+		</figure>
+	</article>
+</section>
+<footer></footer>
+```
+
+•	Terdapat beberapa macam tag semantic HTML yang bisa digunakan
+
+![Screenshot (92)](https://user-images.githubusercontent.com/85721113/192198458-5a4d59d2-f585-4089-ac32-2a290fd47b9c.png)
+
+
 ### **Publish website sampai ke tahap deployment**
+
+
 
 
 
