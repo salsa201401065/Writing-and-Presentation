@@ -283,12 +283,12 @@ Beberapa tag HTML yang sering digunakan :
 <h4></h4>
 <h5></h5>
 <h6></h6>
-```html
+```
 
 Semakin ke atas angkanya ukuran huruf akan semakin kecil
 
 ### **Pengimplementasikan semantic HTML**
-### **7.	Publish website sampai ke tahap deployment**
+### **Publish website sampai ke tahap deployment**
 
 
 
