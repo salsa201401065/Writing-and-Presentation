@@ -170,6 +170,38 @@ Git dan GitHub merupakan sesuatu yang wajib digunakan oleh seorang developer dal
 
 ![image](https://user-images.githubusercontent.com/85721113/192149718-76f1f326-a1c0-4897-a8bc-ee1263604029.png)
 
+## **HTML**
+### **Peran HTML pada web development**
+•	HTML dijadikan kerangka dalam sebuah website, analoginya jika manusia, HTML merupakan kerangka manusia
+
+•	Tidak membuat halaman website menarik dan interaktif
+
+•	Bukan merupakan bahasa pemerograman karena tidak bisa mengolah data
+
+### **Tools pendukung dalam menggunakan HTML**
+•	Code editor, contoh : Visual Studio Code, Notepad++, Sublime Text
+
+•	Web browser, untuk mempresentasikan hasil codingan, contoh : chrome, mircosoft edge
+
+### **HTML sederhana**
+•	HTML dapat dituliskan tanpa struktur, tapi lebih baik menggunakan struktur. Struktur dasar HTML :
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+     <meta charset="UTF-8" />
+     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+     <title>Belajar HTML</title>
+  </head>
+ <body>
+ </body>
+</html>
+
+### **Kegunaan Git dan GitHub**
+### **Kegunaan Git dan GitHub**
+### **Kegunaan Git dan GitHub**
+
 
 
 
