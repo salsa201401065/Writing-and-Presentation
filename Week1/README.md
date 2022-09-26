@@ -205,11 +205,11 @@ Git dan GitHub merupakan sesuatu yang wajib digunakan oleh seorang developer dal
 
 ![image](https://user-images.githubusercontent.com/85721113/192193510-73c36530-e211-404f-a508-32fd8b1228e5.png)
 
-•	Hal yang disebut sebagai atribut pada HTML jika dimulai dari tag awal hingga tag penutup
+•	Hal yang disebut sebagai elemen pada HTML jika dimulai dari tag awal hingga tag penutup
 
 ![image](https://user-images.githubusercontent.com/85721113/192193541-4c3a4f88-aed0-4d14-b3df-269c3857065f.png)
 
-•	Terdapat banyak elemen pada HTML, bahkan terdapat beberapa elemen yang harus diikuti oleh atribut di HTML. Contohnya : <img src = “ ”  /> , <a href “ ” />, dan lainnya
+•	Terdapat banyak atribut pada HTML, bahkan terdapat beberapa elemen yang harus diikuti oleh atribut di HTML. Contohnya : <img src = “ ”  /> , <a href “ ” />, dan lainnya
 
 ### **HTML secara manual dan menggunakan live server dari VS Code**
 •	Pertama-tama jika menggunakan text editor VSCode, harus menginstall dulu ekstensi yang bernama “live server”
