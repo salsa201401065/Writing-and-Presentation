@@ -185,7 +185,8 @@ Git dan GitHub merupakan sesuatu yang wajib digunakan oleh seorang developer dal
 
 ### **HTML sederhana**
 •	HTML dapat dituliskan tanpa struktur, tapi lebih baik menggunakan struktur. Struktur dasar HTML :
-
+ 
+ ```html
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -197,6 +198,8 @@ Git dan GitHub merupakan sesuatu yang wajib digunakan oleh seorang developer dal
  <body>
  </body>
 </html>
+ 
+ ```
 
 ### **Kegunaan Git dan GitHub**
 ### **Kegunaan Git dan GitHub**
