@@ -335,6 +335,136 @@ Dokumen akan lebih mudah dibaca jika menggunakan semantic HTML :
 	
 ## **CSS**
 
+### **CSS pada web development**
+•	CSS membuat tampilan website tampak lebih menarik
+
+•	Jika dianalogikan pada manusia, CSS merupakan kulit serta outfit yang digunakan oleh manusia agar tampil menarik
+
+
+### **Styling CSS : Cara menyisipkan CSS ke dalam HTML**
+•	Inline CSS
+Disisipkan langsung di dalam tag HTML
+
+
+```html
+<h2 style="color:red;font-family:sans">Ini judul artikel</h2>
+```
+
+•	Internal CSS
+Code CSS disisipkan di dalam tag <style></style>.  Tag <style> bisa ditulis di dalam tag <head>, bisa juga ditulis di dalam tag <body>. Namun kebanyakan orang menulisnya di dalam <head>
+```html
+<head>
+  <title>Contoh Internal CSS</title>
+  <!-- penulisan internal css dalam tag head -->
+  <style type="text/css">
+    p{
+      font-family: serif;
+      line-height: 1.75em;
+      font-size: 18px;
+    }
+    i { 
+      font-family: sans;
+      color: orange;
+    }
+  </style>
+</head>
+```
+•	File CSS dibuat terpisah, maksudnya tidak berada di file yang sama dengan HTML. Ekstensi filenya .css dan alamat file diletakkan di dalam tag <head></head> pada file HTML
+```html	
+<head>
+	<link rel="stylesheet" href="style2.css">
+</head> 
+```
+### **Penggunaan sintaks dasar dari CSS**
+•	CSS Selector elements 
+```html	
+	<style>
+            h1 { color: red; }
+            p { color: blue; }
+		</style>
+```
+
+•	CSS Selector by Id
+```html	
+Selector yang bersifat unik, hanya dapat dipanggil sekali saja.
+
+```html	
+#putih {
+            color: pink;
+        } 
+```
+
+•	CSS Selector by Class
+Selector yang bisa di panggil berulang-ulang.
+```html	
+ .content{
+            background-color: bisque;
+            display: flex;
+            justify-content: center;
+        }
+```
+•	Properti yang sering digunakan
+
+Background-color
+
+![image](https://user-images.githubusercontent.com/85721113/192550667-ec6f70ee-7a39-4ea8-a3e4-7ac1f4b888d1.png)
+
+Font-size
+
+![image](https://user-images.githubusercontent.com/85721113/192550696-f4a323e0-7cc3-40a9-ba27-b8d256486143.png)
+
+Color 
+![image](https://user-images.githubusercontent.com/85721113/192550764-fc9b8c75-a475-45e1-ab95-e2683a6de059.png)
+
+
+Dan banyak lainya
+
+
+### **Metode responsive web design menggunakan CSS **
+•	View port
+ viewport adalah daerah pada layar yang menampilkan suatu konten. Dalam konteks kita kali ini, tentu viewport adalah daerah yang menampilkan halaman web yang sedang kita akses
+```html	
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+```
+
+•	Position : relative
+diposisikan relatif dari posisi normalnya
+
+•	Position : static
+Merupakan posisi default, elemen ini tidak terpengaruh oleh top right, left, ataupun bottom.
+
+•	Position : absolute
+diposisikan relative dengan posisi ancestor terdekat yang posisinya bukan static
+
+•	Position : fixed
+diposisikan relatif terhadap viewport browser, di mana akan selalu berada di tempat yang sama jika walaupun halaman website di-scroll
+
+•	Position : sticky
+diposisikan berdasarkan scroll halaman dari user
+•	Box Model
+
+![image](https://user-images.githubusercontent.com/85721113/192554522-bc7a7e3f-2c6e-4b37-8af6-3acaec8696b9.png)
+
+![image](https://user-images.githubusercontent.com/85721113/192554578-87ff7b98-2bfd-4e51-91bf-2b2c1c87977c.png)
+
+### **Penggunaan flexbox**
+•	Justift-content
+
+Flex-start - semua item akan ditempatkan di depan seperti pada gambar di atas
+
+Flex-end   semua item akan ditempatkan di belakang
+
+center akan memampatkan semua item ke tengah
+
+space-between akan memberi ruang pada setiap dua item yang bersebelahan
+
+space-around akan memberi ruang pada sekitar tiap item
+
+
+
+
+
+
 
 
 
