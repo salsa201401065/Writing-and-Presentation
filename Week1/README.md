@@ -443,11 +443,14 @@ diposisikan relatif terhadap viewport browser, di mana akan selalu berada di tem
 
 •	Position : sticky
 diposisikan berdasarkan scroll halaman dari user
+	
 •	Box Model
 
 ![image](https://user-images.githubusercontent.com/85721113/192554522-bc7a7e3f-2c6e-4b37-8af6-3acaec8696b9.png)
 
-![image](https://user-images.githubusercontent.com/85721113/192554578-87ff7b98-2bfd-4e51-91bf-2b2c1c87977c.png)
+	![image](https://user-images.githubusercontent.com/85721113/192557420-4f47f8f5-1cc4-4696-ac1a-548a439f8711.png)
+
+
 
 ### **Penggunaan flexbox**
 •	Justift-content
