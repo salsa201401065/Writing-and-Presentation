@@ -468,11 +468,98 @@ space-around akan memberi ruang pada sekitar tiap item
 	
 ## **Algoritma**
 ### **Perbedaan antara Algoritma dan Data Structures**
+•	Algoritma : langkah-langkah menyelesaikan masalah secara berurutan
+
+•	Struktur data : Mengatur data yang dibutuhkan dalam memori (mengorganisasi data)
+
 ### **Manfaat dari algoritma dan data structure**
+Manfaat dari algoritma :
+
+•	Meningkatkan kualitas berpikir dalam menghadapi suatu masalah
+
+•	Memperluas pemikiran kita terhadap peluang solusi yang ada
+
+•	Meningkatkan analisis dalam membuat pemrograman
+Manfaat dari data structure
+
+•	Data structure bisa digunakan untuk membuat perintah dalam bahasa pemrograman dengan mudah. 
+
+•	Memudahkan untuk menyimpan dan mengatur data menjadi lebih efisien, rapi dan terorganisir. 
+
+•	Mengelola dan menyimpan data pada seluruh data penyimpanan (big data) sehingga terjamin kualitas dan kapasitasnya dapat ditingkatkan. 
+
+
 ### **Membuat algoritma sederhana**
+Secara umum algoritma terbagi menjadi 2, yaitu :
+
+•	Flowchart (Bagan)
+
+Contoh dalam kehidupan nyata, tuliskan algoritma dalam bentuk flowchart jika ingin membuat secangkir kopi :
+
+Algoritma dalam membuat secangkir kopi :
+
+![image](https://user-images.githubusercontent.com/85721113/192576194-743fb07a-a9a5-4d78-bec2-4b0bb7ff94da.png)
+
+
+-	Yang pertama harus dilakukan yaitu Anda harus membuka kemasan dari kopi sachet yang sebelumnya telah dibeli
+
+-	Kemudian tuangkan kopi tersebut dalam sebuah gelas
+
+-	Selanjutnya yaitu Anda dapat memanaskan air tersebut sampai mendidih
+
+-	Dan kemudian Anda dapat menuangkan air panas tersebut ke dalam sebuah gelas
+
+-	Lalu Anda harus mengaduk kopi tersebut sampai merata
+
+-	Dan kopi pun siap untuk diminum
+
+Contoh lain dalam program menentukan luas persegi panjang :
+
+![image](https://user-images.githubusercontent.com/85721113/192576246-f93807cb-1410-475f-b927-a80825576544.png)
+
+
+•	Pseudocode
+
+Contoh pseudocode menghitung luas persegi Panjang :
+
+```html
+program menghitung_luas_persegi_panjang 
+
+deklarasi: var panjang:lebar:luas:integer; 
+
+Deskripsi: 
+panjang <- 6; 
+lebar <- 2; 
+luas <- panjang*lebar; 
+write (luas);
+```
+
 ### **Penerapan algoritma ke dalam bahasa pemrograman**
-### **Peserta mampu memahami dan mempraktikkan pendekatan menyelesaikan suatu masalah untuk diselesaikan melalui program**
-### **Peserta mampu memahami dan menerapkan salah satu algoritma dengan JavaScript**
+Misalkan kita ingin menyelesaikan suatu masalah, yaitu mencari luas dari persegi Panjang. Maka langkah yang pertama dilakukan adalah membuat algoritmanya, setelah itu kita implementasikan dalam program
+
+### **Mempraktikkan pendekatan menyelesaikan suatu masalah untuk diselesaikan melalui program**
+Misalkan kita ingin menyelesaikan suatu masalah, yaitu mencari luas dari persegi Panjang. Maka langkah yang pertama dilakukan adalah membuat algoritmanya, setelah itu kita implementasikan dalam program.
+
+### **Menerapkan salah satu algoritma dengan JavaScript**
+Membuat program mencari luas persegi Panjang berdasarkan algoritma yang telah di buat :
+```html
+program menghitung_luas_persegi_panjang 
+
+deklarasi: var panjang:lebar:luas:integer; 
+
+Deskripsi: 
+panjang <- 6; 
+lebar <- 2; 
+luas <- panjang*lebar; 
+write (luas);
+```
+
+Penerapannya dalan bahasa javascript :
+
+![image](https://user-images.githubusercontent.com/85721113/192576676-8f7ae290-4b6e-4bef-94fc-69011bd14b72.png)
+
+
+
 
 
 
