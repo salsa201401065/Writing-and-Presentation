@@ -448,7 +448,7 @@ diposisikan berdasarkan scroll halaman dari user
 
 ![image](https://user-images.githubusercontent.com/85721113/192554522-bc7a7e3f-2c6e-4b37-8af6-3acaec8696b9.png)
 
-	![image](https://user-images.githubusercontent.com/85721113/192557420-4f47f8f5-1cc4-4696-ac1a-548a439f8711.png)
+![image](https://user-images.githubusercontent.com/85721113/192557420-4f47f8f5-1cc4-4696-ac1a-548a439f8711.png)
 
 
 
