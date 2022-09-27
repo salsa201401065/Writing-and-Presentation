@@ -343,6 +343,7 @@ Dokumen akan lebih mudah dibaca jika menggunakan semantic HTML :
 
 ### **Styling CSS : Cara menyisipkan CSS ke dalam HTML**
 •	Inline CSS
+
 Disisipkan langsung di dalam tag HTML
 
 
@@ -351,6 +352,7 @@ Disisipkan langsung di dalam tag HTML
 ```
 
 •	Internal CSS
+
 Code CSS disisipkan di dalam tag <style></style>.  Tag <style> bisa ditulis di dalam tag <head>, bisa juga ditulis di dalam tag <body>. Namun kebanyakan orang menulisnya di dalam <head>
 ```html
 <head>
@@ -369,7 +371,9 @@ Code CSS disisipkan di dalam tag <style></style>.  Tag <style> bisa ditulis di d
   </style>
 </head>
 ```
-•	File CSS dibuat terpisah, maksudnya tidak berada di file yang sama dengan HTML. Ekstensi filenya .css dan alamat file diletakkan di dalam tag <head></head> pada file HTML
+• Eksternal CSS
+
+File CSS dibuat terpisah, maksudnya tidak berada di file yang sama dengan HTML. Ekstensi filenya .css dan alamat file diletakkan di dalam tag <head></head> pada file HTML
 ```html	
 <head>
 	<link rel="stylesheet" href="style2.css">
@@ -466,7 +470,7 @@ space-between akan memberi ruang pada setiap dua item yang bersebelahan
 space-around akan memberi ruang pada sekitar tiap item
 
 	
-## **Algoritma**
+## **Algoritma dan Data Structures**
 ### **Perbedaan antara Algoritma dan Data Structures**
 •	Algoritma : langkah-langkah menyelesaikan masalah secara berurutan
 
@@ -480,6 +484,7 @@ Manfaat dari algoritma :
 •	Memperluas pemikiran kita terhadap peluang solusi yang ada
 
 •	Meningkatkan analisis dalam membuat pemrograman
+
 Manfaat dari data structure
 
 •	Data structure bisa digunakan untuk membuat perintah dalam bahasa pemrograman dengan mudah. 
