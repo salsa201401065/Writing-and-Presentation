@@ -385,7 +385,7 @@ Code CSS disisipkan di dalam tag <style></style>.  Tag <style> bisa ditulis di d
 ```
 
 •	CSS Selector by Id
-```html	
+
 Selector yang bersifat unik, hanya dapat dipanggil sekali saja.
 
 ```html	
