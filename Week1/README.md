@@ -422,7 +422,7 @@ Color
 Dan banyak lainya
 
 
-### **Metode responsive web design menggunakan CSS **
+### **Metode responsive web design menggunakan CSS**
 •	View port
  viewport adalah daerah pada layar yang menampilkan suatu konten. Dalam konteks kita kali ini, tentu viewport adalah daerah yang menampilkan halaman web yang sedang kita akses
 ```html	
