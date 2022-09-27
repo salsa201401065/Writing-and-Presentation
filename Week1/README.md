@@ -413,7 +413,9 @@ Font-size
 
 ![image](https://user-images.githubusercontent.com/85721113/192550696-f4a323e0-7cc3-40a9-ba27-b8d256486143.png)
 
+	
 Color 
+	
 ![image](https://user-images.githubusercontent.com/85721113/192550764-fc9b8c75-a475-45e1-ab95-e2683a6de059.png)
 
 
@@ -469,8 +471,6 @@ space-around akan memberi ruang pada sekitar tiap item
 ### **Peserta mampu memahami dan mempraktikkan pendekatan menyelesaikan suatu masalah untuk diselesaikan melalui program**
 ### **Peserta mampu memahami dan menerapkan salah satu algoritma dengan JavaScript**
 
-### ****
-	### ****
 
 
 
