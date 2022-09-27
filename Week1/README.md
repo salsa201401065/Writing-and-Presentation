@@ -460,6 +460,17 @@ space-between akan memberi ruang pada setiap dua item yang bersebelahan
 
 space-around akan memberi ruang pada sekitar tiap item
 
+	
+## **Algoritma**
+### **Perbedaan antara Algoritma dan Data Structures**
+### **Manfaat dari algoritma dan data structure**
+### **Membuat algoritma sederhana**
+### **Penerapan algoritma ke dalam bahasa pemrograman**
+### **Peserta mampu memahami dan mempraktikkan pendekatan menyelesaikan suatu masalah untuk diselesaikan melalui program**
+### **Peserta mampu memahami dan menerapkan salah satu algoritma dengan JavaScript**
+
+### ****
+	### ****
 
 
 
