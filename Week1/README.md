@@ -564,6 +564,77 @@ Penerapannya dalan bahasa javascript :
 ![image](https://user-images.githubusercontent.com/85721113/192576676-8f7ae290-4b6e-4bef-94fc-69011bd14b72.png)
 
 
+## **Introduce of JavaScript**
+### **Peran JavaScript pada web development**
+•	JavaScript berperan untuk membuat tanpilan website lebih interaktif
+
+•	Jika dianalogikan pada manusia, javascript seperti manusia makan, bekerja dan belajar 
+
+
+### **Menjalankan JavaScript**
+•	Pastikan file .js yang kita buat berada dalam satu folder dengan file .html
+
+•	Sambungkan file .js ke dalam file.html melalui tag <script src “script.js”><script> agar bisa di console di halaman browser
+
+### **Jenis tipe data**
+•	String (teks)
+
+•	Integer atau Number (bilangan bulat)
+
+•	Float (bilangan Pecahan)
+
+•	Boolean
+
+•	Object
+
+### **Penggunaan operator**
+•	Operator Aritematika 
+
+![image](https://user-images.githubusercontent.com/85721113/192689088-c9e7215c-d314-413a-8817-e8042a77a7c6.png)
+
+```html
+Let  a = 5;
+Let  b = 3;
+
+// menggunakan operator penjumlahan
+Let  c = a + b;
+console.log(c);
+```
+
+•	Operator pengisian nilai 
+![image](https://user-images.githubusercontent.com/85721113/192689137-d52f4e2f-a911-461d-9f66-a60916c189e4.png)
+
+```html
+Let  a = 2;
+a++;
+console.log(a);
+```
+
+•	Operator Perbandingan
+![image](https://user-images.githubusercontent.com/85721113/192689202-86442795-f73c-49ba-8366-cea4e08b532b.png)
+
+•	Operator Bitwaise
+![image](https://user-images.githubusercontent.com/85721113/192689225-b8726c95-cf15-4211-8236-fcadd283ad32.png)
+
+### **Conditional dan Looping**
+
+•	If-else
+Statement if-else digunakan untuk menentukan pilihan dari suatu kondisi yang diberikan, cara kerjanya adalah melakukan perbandingan menggunakan Relational operator dan atau Logical operator.
+
+```html
+If(start; stop; step) {}
+```
+
+•	Looping For
+Proses looping yang menggunakan perhitungan (counter) dapat dibuat dengan pernyataan FOR. Pernyataan ini digunakan bila anda sudah tahu berapakali anda akan mengulang satu atau beberapa penyataan.
+
+```html
+for (ungkapan1; keadaan; ungkapan3)
+{
+  Pernyataan;
+}
+```
+
 
 
 
