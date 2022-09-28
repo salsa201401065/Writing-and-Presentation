@@ -611,14 +611,17 @@ console.log(a);
 ```
 
 •	Operator Perbandingan
+
 ![image](https://user-images.githubusercontent.com/85721113/192689202-86442795-f73c-49ba-8366-cea4e08b532b.png)
 
 •	Operator Bitwaise
+
 ![image](https://user-images.githubusercontent.com/85721113/192689225-b8726c95-cf15-4211-8236-fcadd283ad32.png)
 
 ### **Conditional dan Looping**
 
 •	If-else
+
 Statement if-else digunakan untuk menentukan pilihan dari suatu kondisi yang diberikan, cara kerjanya adalah melakukan perbandingan menggunakan Relational operator dan atau Logical operator.
 
 ```html
@@ -626,6 +629,7 @@ If(start; stop; step) {}
 ```
 
 •	Looping For
+
 Proses looping yang menggunakan perhitungan (counter) dapat dibuat dengan pernyataan FOR. Pernyataan ini digunakan bila anda sudah tahu berapakali anda akan mengulang satu atau beberapa penyataan.
 
 ```html
