@@ -626,7 +626,9 @@ console.log(a);
 Statement if-else digunakan untuk menentukan pilihan dari suatu kondisi yang diberikan, cara kerjanya adalah melakukan perbandingan menggunakan Relational operator dan atau Logical operator.
 
 ```html
-If(start; stop; step) {}
+If(condition) {
+condition
+} else {}
 ```
 
 •	Looping For
@@ -634,10 +636,8 @@ If(start; stop; step) {}
 Proses looping yang menggunakan perhitungan (counter) dapat dibuat dengan pernyataan FOR. Pernyataan ini digunakan bila anda sudah tahu berapakali anda akan mengulang satu atau beberapa penyataan.
 
 ```html
-for (ungkapan1; keadaan; ungkapan3)
-{
-  Pernyataan;
-}
+for(start; stop; step) {
+	}
 ```
 
 
