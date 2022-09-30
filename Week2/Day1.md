@@ -38,13 +38,12 @@ if(juara) {
     console.log(`yeay,hadiahku ${hadiah}.`)
   }
   console.log(`yah,hadiahku ${hadiah}.`);;
-
 ```
 Output :
-
+```html
 yeay,hadiahku sirup.  		//mengambil dari variabel global  yang berada diluar scope scope
 yah,hadiahku sirup. 		//mengambil dari variabel yang berada di luar scope	
-
+```
 ### **Local Scope**
 o	Mendeklarasikan variabel di dalam {}, seperti : conditional, function, dan looping
 
