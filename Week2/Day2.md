@@ -1,5 +1,5 @@
 # Writing-and-Presentation
-## **Data-Type Ptorotype**
+## **Data-Type built in method and Prototype**
 
 o	Method : suatu keahlian yang dapat dilakukan oleh suatu tipe data
 
@@ -15,7 +15,7 @@ Output :
 ```html
 6 						//Panjang karaker dari string kancil
 ```
-o Prototype : sebuah objek juga di dalam JavaScript dan objek ini dapat mewarisi metode dan properti dari prototipenya. Setiap objek dalam JavaScript mewarisi dari Object.
+o Prototipe : sebuah objek juga di dalam JavaScript dan objek ini dapat mewarisi metode dan properti dari prototipenya. Setiap objek dalam JavaScript mewarisi dari Object.
 
 
 ### **Data type**
