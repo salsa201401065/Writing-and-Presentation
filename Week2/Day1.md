@@ -28,7 +28,7 @@ Output :
 yeay,hadiahku Bakso.  		//mengambil dari variabel yang berada di dalam scope
 yah,hadiahku sirup. 		//mengambil dari variabel yang berada di luar scope	
 ```
-
+Contoh perbedaan local dan global scope lainnya : 
 ```html
 //Contoh Local dan Global scope
 var juara = true;
