@@ -65,6 +65,7 @@ let car = "";    // The value is "", the typeof is "string
 ### **Method**
 
 String
+
 o	UpperCase : mengubah kata atau kalimat ke dalam huruf kapital
 ```html
 const kalimat = 'V BTS Suamiku';
