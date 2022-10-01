@@ -4,10 +4,15 @@ o	merupakan interaksi yang terjadi pada website
 ## **Terdapat 3 cara dalam memberikan events**
 
 o	HTML atribut
+
 ![image](https://user-images.githubusercontent.com/85721113/193416731-646a0177-90f0-43c9-86e0-1617f0af44a0.png)
+
 o	event property
+
 ![image](https://user-images.githubusercontent.com/85721113/193416770-673add5d-73b0-4a5f-8d9a-57dc5fe13601.png)
+
 o	addEventListener()
+
 ![image](https://user-images.githubusercontent.com/85721113/193416934-4f94539f-6b1b-4f82-832d-aeb180f55f9a.png)
 
 ## **Macam-macam events**
