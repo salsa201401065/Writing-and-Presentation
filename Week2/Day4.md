@@ -36,6 +36,7 @@ o Dapat menerima string
 
 ### **appendChild()**
 o hanya bisa menerima sebuah node
+
 ![image](https://user-images.githubusercontent.com/85721113/193393401-28189155-fe93-4a93-bc96-502eb078a6a6.png)
 
 ### **remove()**
