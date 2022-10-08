@@ -90,6 +90,28 @@
 
 ![image](https://user-images.githubusercontent.com/85721113/194716613-8f86636f-fc12-4d43-9618-6ff3410f01d4.png)
 
+## **Multidemensional Array**
+- Array yang berada di dalam array
+
+### **Akses untuk melihat isi index dari Multidemensional Array**
+- Cara membacanya menggunakan tabel, kolom merupakan isi dari array
+
+![image](https://user-images.githubusercontent.com/85721113/194717332-aec35e16-c76d-421b-8199-c298a5e6fabb.png)
+
+![image](https://user-images.githubusercontent.com/85721113/194717351-e797747a-c1d5-4040-b101-a234fdc121e1.png)
+
+### **Penggunaan .map() pada Multidemensional Array**
+
+![image](https://user-images.githubusercontent.com/85721113/194717557-41b89ad8-e5a9-4915-9320-642905d38e18.png)
+
+### **Looping for pada Multidemensional Array**
+
+![image](https://user-images.githubusercontent.com/85721113/194717689-062211e9-7776-4164-927d-8116e82c41c0.png)
+
+
+
+
+
 
 
 
