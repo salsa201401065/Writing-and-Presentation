@@ -60,8 +60,8 @@ let human = {}; // manusia adalah objek kosong
 
 ![image](https://user-images.githubusercontent.com/85721113/194735904-054b343f-2409-4d15-9142-8c930f2b7010.png)
 
-### **Delete Object**
-- Dapat menggunakan operator detele
+### **Delete Object Properti**
+- Dapat menggunakan operator delete
 
 ![image](https://user-images.githubusercontent.com/85721113/194735941-7703671b-c6b8-4b43-b750-fe454cf7f1c8.png)
 
