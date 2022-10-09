@@ -1,5 +1,5 @@
 # Writing-and-Presentation
-## ** JS MODULES**
+## **JS MODULES**
 - Cara untuk memisahkan code ke beberapa file yang berbeda untuk memmudahkan maintain terhadap code dimana file-file tsb saling terhubung
 - Keuntungan : mudah untuk mengelola code, code tidak menumpuk di suatu file
 - Export dapat dilakukan pada variabel, function, dan class
