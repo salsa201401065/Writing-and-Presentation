@@ -47,7 +47,10 @@
 
 ![image](https://user-images.githubusercontent.com/85721113/194799799-d5675203-7c32-4b1b-9d05-2719d465299e.png)
 
-
+## **Hint**
+- dark-theme :root var()
+- JSON.parse -> ubah string ke object
+- JSON.stringify -> ubah apapun ke string JSON
 
 
 
