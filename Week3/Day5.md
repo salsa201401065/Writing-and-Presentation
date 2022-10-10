@@ -16,7 +16,7 @@
 
 ### **Menyimpan data ke localStorage dan sessionStorage**
 - localStorage
-- 
+
 ![image](https://user-images.githubusercontent.com/85721113/194797817-019af557-8d5c-401b-b32e-6d467f4890f8.png)
 
 - sessionStorage
