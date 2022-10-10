@@ -14,7 +14,7 @@
 ### **Promises**
 - Digunakan untuk melihat apakah suatu kondisi terjadi atau gagal terjadi
 - Promise hanya dapat berjalan di asynchronous
-- Mmebuat code lebuh mudah dibaca
+- Memmbuat code lebuh mudah dibaca
 - Promise memiliki error handling. Jadi, ketika ada kesalahan maka dapat ditindak lanjuti
 
 ![image](https://user-images.githubusercontent.com/85721113/194793799-e0e8b4ed-e7dc-4322-8971-a983c4b56201.png)
@@ -37,7 +37,7 @@ const getAllUser = async ()=> {
 	console.log(data)
 }
 ```
--Error handling async/await dapat menggunakan try and catch
+- Error handling async/await dapat menggunakan try and catch
 ```html
 const getAllUser = async ()=> {
 	try {
