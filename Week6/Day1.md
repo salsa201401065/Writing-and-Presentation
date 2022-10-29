@@ -51,7 +51,7 @@ jangan lupa untuk mengeksport componenentnya
 
 - Kemudian jika ingin menggunakan component, silakan panggil component tersebut di main file (app.jsx)
 - Pemanggilan component harus menggunakan import 
-- 
+
 ![Screenshot (155)](https://user-images.githubusercontent.com/85721113/198842356-c22b5828-52f8-45db-aaba-08b2c5bee707.png)
 
 - Cara memanggil component yang diimport 
