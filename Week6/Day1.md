@@ -12,7 +12,9 @@
 npx create-react-app <nama-folder>
 ```
 ![Screenshot (136)](https://user-images.githubusercontent.com/85721113/198840912-f3a24cdb-9661-4104-b5a1-c479fce2b8c1.png)
+
 - Tunggu hingga keluar bacaan "happy hacking"
+
 ![Screenshot (137)](https://user-images.githubusercontent.com/85721113/198840940-27609e7a-9723-4375-a565-7578cc7fcf2c.png)
 
 ## **Penggunaan ReactJS**
