@@ -6,7 +6,7 @@
 - Diperkenalkan oleh facebook
 
 ## **Instalasi ReactJS**
-- Menginstall node.js terlebih dahulu. Node.js adalah aplikasi yang memungkinkan javascript di luar dari web browser
+- Menginstall node.js terlebih dahulu. Node.js adalah aplikasi yang memungkinkan javascript dapat berjalan di luar dari web browser
 - Membuat library 
 ```html
 npx create-react-app <nama-folder>
@@ -39,7 +39,7 @@ atau
 - Penulisan fungsi di awal huruf harus menggunakan huruf kapital
 - Nama file = nama fungsi
 
-## **Component pada ReactJS**
+## **Introduction Component pada ReactJS**
 - Component dapat dibuat di luar main file (app.jsx)
 - Caranya dengan membuat folder baru di dalam src yang berisi nama componen yang akan diguanan
 
