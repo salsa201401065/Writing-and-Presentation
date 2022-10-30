@@ -9,9 +9,7 @@
 ```html
 <>
 </>
-
 atau 
-
 <div></div>
 ```
 - Buat folder bernama components di dalam folder src untuk menampung file jsx yang berisi components
@@ -54,7 +52,31 @@ Pemanggilan function di app.jsx
 
 ![image](https://user-images.githubusercontent.com/85721113/198884698-10900576-f567-4834-8ae6-c5d840964588.png)
 
+- Sebab react bersifat imutable, maka jika ingin merubah konten dapat menggunakan konsep use state
+
+![Screenshot (174)](https://user-images.githubusercontent.com/85721113/198886392-4dcec869-b24a-47ca-8bd7-32046cdb86af.png)
+
+![image](https://user-images.githubusercontent.com/85721113/198886401-1c3bc222-fa88-44ae-9ded-f009be9c5c0c.png)
+
+## **Stateless dan Statefull**
+- Stateless : tidak memiliki state dan hanya memiliki props, yang bertindak sebagai stateless adalah member info.
+- Statefull : memiliki state dan dapat mengirimnya ke component. Yang bertindak sebagai statefull adalah app.jsx
+
 ## **Penggunaan Bootstrap pada ReactJS**
+- Memasukkan link cdn di bagian index.html
+
+![Screenshot (176)](https://user-images.githubusercontent.com/85721113/198888353-ec9478ff-5d93-48bc-b08b-0a345c5780ba.png)
+
+- Memasukkan code  bootstrap di folder compoenent sesuai kebutuhan
+- Mengganti semua class menjadi className
+
+![Screenshot (177)](https://user-images.githubusercontent.com/85721113/198888430-ea17e7e0-36c5-42b9-8da7-36c39a279479.png)
+
+![image](https://user-images.githubusercontent.com/85721113/198888432-66f5a284-0491-479a-b7e4-51913a300531.png)
+
+
+
+
 
 
 
