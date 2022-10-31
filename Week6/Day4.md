@@ -20,6 +20,15 @@ npm install axious
 
 ![Screenshot (196)](https://user-images.githubusercontent.com/85721113/199010957-9a15b451-8b45-44d5-8012-70328a5c6196.png)
 
+- Proses unmount digunakan untuk membersihkan data
+
+![image](https://user-images.githubusercontent.com/85721113/199039306-55650e0d-1c57-4fa6-9e78-481b4e6df5d3.png)
+
+![image](https://user-images.githubusercontent.com/85721113/199039325-9741b866-4fbb-483a-85b5-b9b51f867027.png)
+
+![image](https://user-images.githubusercontent.com/85721113/199039382-89e6efc0-701e-4b9c-ae98-27b212a8ddce.png)
+
+
 
 
 
