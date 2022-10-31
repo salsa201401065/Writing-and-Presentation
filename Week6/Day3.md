@@ -33,7 +33,7 @@
 
 ![Screenshot (191)](https://user-images.githubusercontent.com/85721113/198944233-a7f07dfb-6fc1-404d-8738-bc0aa1f8fe64.png)
 
-- Jika sudah ligin, user dapat mengakses list member
+- Jika sudah login, user dapat mengakses list member
 
 ![Screenshot (192)](https://user-images.githubusercontent.com/85721113/198944320-1c5078cc-391e-4e0e-88f2-41ce05e62053.png)
 
