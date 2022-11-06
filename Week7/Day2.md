@@ -79,7 +79,7 @@ export function Book() {
 ### **Nested Routing**
 - Digunakan bila terdapat banyak rute yang menggunakan parent route yang sama
 - Langkah yang dapat dilakukan adalah membuat parent route digunakan untuk semua child route. Kemudian di dalam parent route letakkan semua komponen child route
-``html
+```html
 <Routes>
   <Route path="/" element={<Home />} />
   <Route path="/books">
