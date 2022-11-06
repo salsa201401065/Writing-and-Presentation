@@ -29,12 +29,6 @@ root.render(
 )
 ```
   
-### **Store di React-Redux**
-- Store adalah tempat untuk menyimpan state yang ada pada aplikasi
-- Mengupdate state
-- Menyediakan izin untuk pengaksesan state
-- Menotice atau memberitahukan komponen lain jika terjadi perubahan pada state
-  
 ### **Action di React-Redux**
 - Bentuk fungsi sederhana yang mereturn objek seperti halnya yang biasa digunakan pada javascript yang berguna untuk mengirim informasi kepada store
 ```html
@@ -43,6 +37,67 @@ const increment = () => {
         type: 'INCREMENT'
     }
 }
+```
+  
+### **Reducer di React-Redux**
+- Fungsi JavaScript yang mengubah status berdasarkan Action yang dikirim ke Store
+- Memproses state dan actions objek sebelumnya yang kemudian akan dijadikan argumen dan dikembalikan untuk state berikutnya
+```html
+const counter = (state = 0, action) => {
+    switch(action.type) {
+        case 'INCREMENT':
+            return state + 1;
+        default:
+            return state;
+    }
+}
+```
+  
+### **Store di React-Redux**
+- Store adalah tempat untuk menyimpan state yang ada pada aplikasi
+- Mengupdate state
+- Menyediakan izin untuk pengaksesan state
+- Menotice atau memberitahukan komponen lain jika terjadi perubahan pada state
+- Caranya dengan melakukan import createstore
+```html
+import { createStore } from 'redux';
+
+const store = createStore(counter);
+```
+- Setelah melakukan createstore, lakukan set up untuk action
+ ```html
+ store.dispatch(increment());
+ ```
+ - Langkah selanjutnya adalah gunakan perintah yang lainnya
+ ```html
+ import { createStore } from 'redux';
+
+//Action
+const increment = () => {
+    return {
+        type: 'INCREMENT'
+    }
+}
+
+//Reducer
+const counter = (state = 0, action) => {
+    switch(action.type) {
+        case 'INCREMENT':
+            return state + 1;
+        default:
+            return state;
+    }
+}
+
+//Store
+const store = createStore(counter);
+
+store.subscribe(() => {
+    console.log(store.getState());
+});
+
+//Dispatch
+store.dispatch(increment());
 ```
 
   
