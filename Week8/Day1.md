@@ -102,7 +102,7 @@ export const themes = {
 export const ThemeContext = React.createContext(
   themes.dark // nilai *default*
 );
-``
+```
 
 ### **Memperbarui Context Dari Komponen Bersarang**
 - Mengoper sebuah fungsi melewati context untuk memperbarui context
